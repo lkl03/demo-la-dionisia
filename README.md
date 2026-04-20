@@ -1,2 +1,7 @@
-# demo-la-dionisia
-Demo web para La Dionisia — diseñada por eterlab.
+# La Dionisia
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
